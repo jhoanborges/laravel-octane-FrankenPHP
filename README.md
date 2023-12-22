@@ -34,5 +34,6 @@ FrankenPHP Medium Request Duration ....... 1.59 ms
 ```
 ## Credits
 
-[https://dev.to/robertobutti/laravel-octane-and-frankenphp-240o](https://dev.to/robertobutti/laravel-octane-and-frankenphp-240o)
-[[https://dev.to/robertobutti/laravel-octane-and-frankenphp-240o](https://blog.laravel.com/octane-frankenphp)]([https://dev.to/robertobutti/laravel-octane-and-frankenphp-240o](https://blog.laravel.com/octane-frankenphp)https://blog.laravel.com/octane-frankenphp)
+[robertobutti](https://dev.to/robertobutti/laravel-octane-and-frankenphp-240o)
+
+[blog.laravel.com](https://blog.laravel.com/octane-frankenphp)
